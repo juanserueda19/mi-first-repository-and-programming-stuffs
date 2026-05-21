@@ -1,2 +1,2 @@
-# mi-first-repository-and-programming-stuffs
+# hello world this is my new repository
 this is my first repository
